@@ -4,3 +4,6 @@ version = "0.1.0"
 description = "Mock API for work orders"
 requires-python = ">=3.9"
 dependencies = []
+
+[tool.poetry]
+package-mode = false
