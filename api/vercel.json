@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/rest/api/v1/workorders/get-list",
+      "destination": "/api/workorders"
+    }
+  ]
+}
